@@ -1,0 +1,11 @@
+.Quiz {
+    display: flex;
+    flex-direction: column;
+    color: #fff;
+    margin: auto;
+}
+
+.Quiz h1 {
+    text-align: center;
+    margin-bottom: 30px;
+}
